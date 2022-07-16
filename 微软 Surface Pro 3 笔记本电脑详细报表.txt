@@ -1,0 +1,260 @@
+﻿--------[ 概览 ]----------------------------------------------------------------------------------
+
+  电脑型号            微软 Surface Pro 3 笔记本电脑
+  操作系统            Windows 10 Enterprise 64位 ( DirectX 12 )
+
+  处理器              英特尔 第四代酷睿 i5-4300U 双核 先前产品为 Haswell
+  主板                微软 Surface Pro 3 ( Lynx Point-LP )
+  主显卡              英特尔 Haswell-ULT Integrated Graphics Controller ( 112 MB / 微软 ) 要通常与 HD4200、HD4400 和 HD4600 一起使用
+  内存                8 GB ( DDR3 1600MHz )
+  主硬盘              SK HYNIX HFS256G3AMNB-2200A ( 256 GB / 固态硬盘 )
+  显示器              三星 SEC3542 ( 12 英寸  )
+  声卡                英特尔 High Definition Audio Controller
+  网卡                Marvell Marvell AVASTAR Wireless-AC Network Controller / 045E0001
+
+--------[ 主板 ]----------------------------------------------------------------------------------
+
+  主板型号            微软 Surface Pro 3
+  芯片组              Lynx Point-LP
+  序列号              019102151053
+  主板版本            1
+  BIOS版本            American Megatrends Inc. 3.11.2650  /  BIOS程序发布日期: 04/30/2019
+  BIOS的大小          1024 KB
+
+
+--------[ 处理器 ]--------------------------------------------------------------------------------
+
+  处理器              英特尔 第四代酷睿 i5-4300U 双核
+  速度                2.60 GHz (108 MHz x 24.0)
+  处理器数量          核心数: 2 / 线程数: 4
+  核心代号            Haswell
+  生产工艺            22.0纳米
+  插槽/插座           BGA1168
+  一级数据缓存        2 x 32 KB, 8-Way, 64 byte lines
+  一级代码缓存        2 x 32 KB, 8-Way, 64 byte lines
+  二级缓存            2 x 256 KB, 8-Way, 64 byte lines
+  三级缓存            3 MB, 12-Way, 64 byte lines
+  特征                MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, HTT, EM64T, EIST, Turbo Boost
+
+--------[ 硬盘 ]----------------------------------------------------------------------------------
+
+  产品                SK HYNIX HFS256G3AMNB-2200A (固态硬盘)
+  大小                256 GB
+  硬盘已使用          共 440 次，累计 19234 小时
+  固件                10108L00
+  接口                SATA III
+  数据传输率          600.00 MB/秒
+  特征                S.M.A.R.T,  APM,  48-bit LBA,  NCQ
+
+  产品                SDXC Card
+  大小                253 GB
+  固件                1.00
+  特征                S.M.A.R.T
+
+  产品                aigo U330 USB Device
+  大小                126 GB
+  固件                PMAP
+  特征                S.M.A.R.T
+
+--------[ 内存 ]----------------------------------------------------------------------------------
+
+  ChannelA-DIMM0      DDR3 1600MHz 4GB
+  序列号              00000000
+  模块位宽:           64 bits
+
+  ChannelB-DIMM0      DDR3 1600MHz 4GB
+  序列号              00000000
+  模块位宽:           64 bits
+
+--------[ 显卡 ]----------------------------------------------------------------------------------
+
+  主显卡              英特尔 Haswell-ULT Integrated Graphics Controller
+  显存                112 MB
+  制造商              微软
+  制造商              Intel
+  驱动版本            20.19.15.4568
+  驱动日期            20161216
+
+--------[ 显示器 ]--------------------------------------------------------------------------------
+
+  产品                三星 SEC3542
+  厂商                三星
+  固件程序日期        2013 年 (非显示器制造日期)
+  屏幕尺寸            12 英寸 (254 毫米 x 169 毫米)
+  显示比例            3 : 2
+  分辨率              2160 x 1440 (缩放比例:150%) 32 位真彩色
+  Gamma               2.20
+
+--------[ 其他设备 ]------------------------------------------------------------------------------
+
+
+  无线网卡            Marvell Marvell AVASTAR Wireless-AC Network Controller
+  制造商              045E0001
+
+  无线网卡            YICHIP Wireless Device
+
+  声卡                英特尔 High Definition Audio Controller
+
+  声卡                英特尔 Lynx Point-LP HD Audio Controller
+
+  键盘                HID 标准键盘
+  键盘                Surface Type Cover Filter Device
+  键盘                HID 标准键盘
+  键盘                HID 标准键盘
+  鼠标                HID-compliant 鼠标
+  鼠标                HID-compliant 鼠标
+  鼠标                HID-compliant 鼠标
+
+  摄像头              微软 LifeCam Rear
+
+--------[ PCI设备 ]-------------------------------------------------------------------------------
+
+  设备                Haswell-ULT DRAM Controller
+  设备ID              0A04
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to HOST
+  子系统制造商        Microsoft
+  子系统ID            0A041414
+
+  设备                Haswell-ULT Integrated Graphics Controller
+  设备ID              0A16
+  制造商              Intel
+  制造商ID            8086
+  类别                Display / VGA
+  子系统制造商        Microsoft
+  子系统ID            00051414
+
+  设备                High Definition Audio Controller
+  设备ID              0A0C
+  制造商              Intel
+  制造商ID            8086
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        Intel
+  子系统ID            0A0C8086
+
+  设备                Lynx Point-LP USB xHCI HC
+  设备ID              9C31
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB (UHCI)
+  子系统制造商        Microsoft
+  子系统ID            9C311414
+
+  设备                Lynx Point-LP HECI #0
+  设备ID              9C3A
+  制造商              Intel
+  制造商ID            8086
+  类别                Simple Communication / Other
+  子系统制造商        Microsoft
+  子系统ID            9C3A1414
+
+  设备                Lynx Point-LP HD Audio Controller
+  设备ID              9C20
+  制造商              Intel
+  制造商ID            8086
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        Microsoft
+  子系统ID            9C201414
+
+  设备                Lynx Point-LP PCI Express Root Port 3
+  设备ID              9C14
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Lynx Point-LP LPC Controller
+  设备ID              9C43
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to ISA
+  子系统制造商        Microsoft
+  子系统ID            9C431414
+
+  设备                Lynx Point-LP SATA Controller 1 [AHCI mode]
+  设备ID              9C03
+  制造商              Intel
+  制造商ID            8086
+  类别                Storage / Serial ATA (AHCI 1.0)
+  子系统制造商        Microsoft
+  子系统ID            9C031414
+
+  设备                Lynx Point-LP SMBus Controller
+  设备ID              9C22
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / SMBus Controller
+  子系统制造商        Microsoft
+  子系统ID            9C221414
+
+  设备                Lynx Point-LP Thermal
+  设备ID              9C24
+  制造商              Intel
+  制造商ID            8086
+  类别                Data Aquisition & Signal Processing / Other
+  子系统制造商        Intel
+  子系统ID            9C248086
+
+  设备                Marvell AVASTAR Wireless-AC Network Controller
+  设备ID              2B38
+  制造商              Marvell
+  制造商ID            11AB
+  类别                Network / Ethernet
+  子系统制造商        未知(45E0001h)
+  子系统ID            045E0001
+
+--------[ USB设备 ]-------------------------------------------------------------------------------
+
+  制造商ID            045E
+  产品ID              07E8
+  类别                0 / 0 / 0
+  设备                Microsoft Surface Type Cover
+  Serial              ?
+
+  制造商ID            045E
+  产品ID              07BE
+  类别                239 / 2 / 1
+  设备                 
+  版本                USB 2.0
+
+  制造商ID            1286
+  产品ID              204B
+  类别                224 / 1 / 1
+  设备                 
+  版本                USB 2.0
+
+  制造商ID            045E
+  产品ID              07BF
+  类别                239 / 2 / 1
+  设备                 
+  版本                USB 2.0
+
+  制造商ID            13FE
+  产品ID              6300
+  类别                0 / 0 / 0
+  设备                 U330
+  Serial              900003E5454D0526
+
+  制造商ID            3151
+  产品ID              1002
+  类别                0 / 0 / 0
+  设备                YICHIP Wireless Device
+  Serial              ?
+  版本                USB 2.0
+
+  制造商ID            0BDA
+  产品ID              0307
+  类别                0 / 0 / 0
+  设备                Realtek USB3.0 Card Reader
+  Serial              201006010301
+  版本                USB 3.0
+
+--------[ 传感器 ]--------------------------------------------------------------------------------
+
+  CPU温度             61℃
+  CPU核心             61℃
+  CPU封装             61℃
+  硬盘温度            43℃
+
+https://www.jianshu.com/p/55c6abfb428d
